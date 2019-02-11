@@ -1,6 +1,6 @@
 # 2011 Emergency INDEX
 
-Content for the 2011 vol. 1 Emergency INDEX website. 
+Content from the vol. 1 (2011) Emergency INDEX. 
 
 ### branches
 

@@ -4,7 +4,7 @@ name: Contributors
 volume: '2011'
 title: 'Index 2011: Contributors'
 wrapperclass: 'index-contributors'
-toc: 2013 Contributors
+toc: 2011 Contributors
 --- 
 
 {: #0-9 .index .sticky-nav }

@@ -21,7 +21,7 @@ toc: 2011 Terms
 
 abjection [273], [471]
 
-Abramovic, Marina [017], [427]
+Abramović, Marina [017], [427]
 
 absence [055], [087], [267], [369], [457]; absent [125], [195], [219], [267], [353]
 
@@ -1356,7 +1356,7 @@ rhyme _see_ song
 
 rhythm _see_ music
 
-Rhythm 0 _see_ Abramovic, Marina
+Rhythm 0 _see_ Abramović, Marina
 
 Rice, Thomas Dartmouth [379]
 
@@ -1459,7 +1459,7 @@ Skype [167], [173], [371]
 
 slave [271], [451]; _see also_ racism
 
-Sleater Kinney [427]
+Sleater-Kinney [427]
 
 sleep [031], [035], [051], [071], [081], [111], [139], [289], [323], [425], [483]
 
@@ -1616,7 +1616,7 @@ trafficking [121], [409]
 
 tragedy [045], [109], [333]
 
-trance [219], [261]; _see also_ ritual, spitituality
+trance [219], [261]; _see also_ ritual, spirituality
 
 transcription [225], [415], [421], [455]
 
@@ -1753,7 +1753,7 @@ witness [009], [061], [065], [079], [091], [207], [209], [243], [279], [315], [3
 
 woman [059], [069], [123], [125], [133], [193], [197], [201], [209], [217], [241], [259], [261], [277], [317], [353], [369], [375], [389], [417], [421], [427], [433], [461], [481]; womanhood [241]; _see also_ feminism, gender
 
-Wooster Group, The _see_ LeComte, Elizabeth
+Wooster Group, The _see_ LeCompte, Elizabeth
 
 word [095], [101], [149], [181], [189], [275], [289], [305], [309], [319], [321], [325], [357], [359], [361], [463]; words [011], [037], [067], [069], [085], [087], [101], [145], [157], [179], [195], [275], [285], [291], [305], [311], [317], [329], [335], [343], [361], [363], [389], [399], [415], [439], [441], [467], [469], [483], [495]
 

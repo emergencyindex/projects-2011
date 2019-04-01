@@ -319,9 +319,9 @@ toc: 2011 Terms
 
 **city** [015], [017], [019], [037], [047], [061], [095], [127], [139], [149], [165], [225], [229], [255], [263], [299], [313], [353], [429], [463]
 
-**cityscape** [343]; _see also_ ghetto
+**cityscape** [343]; _see also_ <span class="see-also">ghetto</span>
 
-**City of Hamburgers** _see_ Reiss and Feinberg
+**City of Hamburgers** _see_ <span class="see-also">Reiss and Feinberg</span>
 
 **class (school)** [075], **(socioeconomic)** [103], [229], [287], [383], [405]; _see also_ <span class="see-also">education</span>
 
